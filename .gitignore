@@ -9,6 +9,7 @@
 #Snapshots folder
 .snapshots/
 #Testing Output folder
+node_modules/
 .output/
 #Extension App-file
 *.app
